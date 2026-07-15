@@ -8,7 +8,7 @@ You are an IT administrator for a growing organization that has recently decided
 
 To meet these goals, your task is to use Microsoft Entra ID to manage user identities and connect the on-premises network with Azure. This will allow easy user management, secure cloud access, and reliable communication between on-premises and cloud environments.
 
-## What we will do
+## What We Will Do
 
 * Setting up Microsoft Entra ID
 * Synchronizing on-premises Active Directory with Microsoft Entra ID
@@ -16,7 +16,7 @@ To meet these goals, your task is to use Microsoft Entra ID to manage user ident
 * Establishing hybrid connectivity using a VPN gateway
 * Testing and validating the hybrid connectivity setup
 
-## Prerequisites&#x20;
+## Prerequisites
 
 * Active Azure Subscription
 * On-premises Active Directory domain controller
@@ -27,7 +27,7 @@ To meet these goals, your task is to use Microsoft Entra ID to manage user ident
 
 ![Architecture Diagram](https://github.com/emlykf/Implementing-Entra-ID-and-Hybrid-Connectivity/blob/b32b6710dc2b29cad04dcd2830a96c395c7f9a1c/Architecture%20Diagram.png)
 
-## Resources&#x20;
+## Resources
 
 * [Installing Windows Server 2019 on Proxmox](https://youtu.be/kOdf4_QPrZw?si=Cdr8iDqtL8AeIARk)
 * [Setting up Active Directory in Windows Server 2019](https://youtu.be/h3sxduUt5a8?si=v43OIUcGIycWqtuS)&#x20;
