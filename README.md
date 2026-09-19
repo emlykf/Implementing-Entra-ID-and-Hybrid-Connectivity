@@ -25,7 +25,7 @@ To meet these goals, your task is to use Microsoft Entra ID to manage user ident
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://github.com/emlykf/Implementing-Entra-ID-and-Hybrid-Connectivity/blob/b32b6710dc2b29cad04dcd2830a96c395c7f9a1c/Architecture%20Diagram.png)
+![Architecture Diagram](https://github.com/emlykf/Implementing-Entra-ID-and-Hybrid-Connectivity/blob/02324020fd3cae794f1b1d66762bbbd06eeb6520/Architecture%20Diagram.png)
 
 ## Resources
 
